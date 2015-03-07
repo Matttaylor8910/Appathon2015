@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:DoodleMan/Assets/Sprite_Sheets.meta
 guid: c223a62a754a736468e6efe1771be89b
 folderAsset: yes
 timeCreated: 1425692924
+=======
+guid: cb874e8da2a754571bd6c876a8044855
+folderAsset: yes
+timeCreated: 1425692888
+>>>>>>> 401c63111e803993b7791a3c7f28d10c8d3014a9:DoodleMan/Assets/Sprite_Sheets.meta
 licenseType: Free
 DefaultImporter:
   userData: 
