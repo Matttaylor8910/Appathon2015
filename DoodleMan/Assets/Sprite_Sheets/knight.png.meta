@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 48b02d8f936c5c64fba59d778ada07e1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Knight_Head
+    21300002: Knight_Body
+    21300004: Knight_Back_Leg
+    21300006: Knight_Knee
+    21300008: Kight_Back_Calf
+    21300010: Knight_Back_foot
+    21300012: Knight_Hand
+    21300014: Knight_Forearm
+    21300016: Knight_Arm
+    21300018: Knight__FrontKnee
+    21300020: Knight_Front_Calf
+    21300022: knight_11
+    21300024: Knight_Front_Leg
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Knight_Head
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 587
+        width: 150
+        height: 176
+      alignment: 9
+      pivot: {x: .660929084, y: .133348286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Knight_Body
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 310
+        width: 124
+        height: 203
+      alignment: 9
+      pivot: {x: .573297083, y: .142337382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Knight_Back_Leg
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 268
+        width: 76
+        height: 144
+      alignment: 9
+      pivot: {x: .499999911, y: .821896672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Knight_Knee
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 162
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kight_Back_Calf
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 118
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: .834148407, y: .807416797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Knight_Back_foot
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 16
+        width: 108
+        height: 85
+      alignment: 9
+      pivot: {x: .314856768, y: .574849486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Knight_Hand
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 568
+        width: 78
+        height: 216
+      alignment: 9
+      pivot: {x: .110781938, y: .0623892322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Knight_Forearm
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 467
+        width: 119
+        height: 37
+      alignment: 9
+      pivot: {x: .125753447, y: .598258376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Knight_Arm
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 615
+        width: 66
+        height: 94
+      alignment: 9
+      pivot: {x: .665251732, y: .848083496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Knight__FrontKnee
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 168
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Knight_Front_Calf
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 126
+        width: 56
+        height: 79
+      alignment: 9
+      pivot: {x: .759680629, y: .833641529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: knight_11
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 29
+        width: 114
+        height: 77
+      alignment: 9
+      pivot: {x: .324601024, y: .618036866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Knight_Front_Leg
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 303
+        width: 106
+        height: 124
+      alignment: 9
+      pivot: {x: .242768481, y: .771199644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

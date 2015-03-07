@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 99100fdc7adb4d24db655b6ba8dabb65
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FatZombie
+    21300002: Head
+    21300004: Body
+    21300006: Back_Arm
+    21300008: Shoulder
+    21300010: Forearm
+    21300012: Pants_Front
+    21300014: Pants_Back
+    21300016: Leg_Front
+    21300018: FatZombie_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Head
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 626
+        width: 132
+        height: 152
+      alignment: 9
+      pivot: {x: .299359381, y: .227749467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Body
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 442
+        width: 350
+        height: 345
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Back_Arm
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 543
+        width: 157
+        height: 138
+      alignment: 9
+      pivot: {x: .194246516, y: .751891673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shoulder
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 254
+        width: 207
+        height: 213
+      alignment: 9
+      pivot: {x: .324075848, y: .686511278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Forearm
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 108
+        width: 192
+        height: 112
+      alignment: 9
+      pivot: {x: .14652729, y: .633014262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pants_Front
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 193
+        width: 194
+        height: 142
+      alignment: 9
+      pivot: {x: .977814674, y: 2.28351307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pants_Back
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 199
+        width: 192
+        height: 160
+      alignment: 9
+      pivot: {x: -.146596596, y: 1.85516226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Leg_Front
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 24
+        width: 102
+        height: 152
+      alignment: 9
+      pivot: {x: .483771235, y: .826701403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FatZombie_8
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 47
+        width: 121
+        height: 152
+      alignment: 9
+      pivot: {x: .308479756, y: .783141196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
