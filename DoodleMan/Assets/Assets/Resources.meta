@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:DoodleMan/Assets/Assets/Resources.meta
 guid: 0a64212126c71f048b79a78d03aed5b8
 folderAsset: yes
 timeCreated: 1425689277
+=======
+guid: f3ca75fbb66dd40f596e393be69d23e2
+folderAsset: yes
+timeCreated: 1425694990
+>>>>>>> 05cbabbf7032825d0debc2c9f6c914e5f1f1310b:DoodleMan/Assets/Scenes.meta
 licenseType: Free
 DefaultImporter:
   userData: 

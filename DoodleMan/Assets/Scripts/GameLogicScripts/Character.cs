@@ -139,14 +139,12 @@ public class Character : MonoBehaviour {
 
 	//Moves character in the right directon///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	void Move(){
-		if(transform.localScale.x < 0){
+		if(Input.GetKeyDown(KeyCode.LeftArrow)){
 			GetComponent<Rigidbody2D>().velocity = new Vector2(-0.2f*moveSpeed, GetComponent<Rigidbody2D>().velocity.y);
 		}
-		else{
+		else if (Input.GetKeyDown(KeyCode.RightArrow)){
 			GetComponent<Rigidbody2D>().velocity = new Vector2(0.2f*moveSpeed, GetComponent<Rigidbody2D>().velocity.y);
 		}
-
-		
 	}
 
 	//Returns array of enemies within attack////////////////////////////////////////////////////////////////////////////////////////////////////////
